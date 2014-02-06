@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">BiterTweet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_login">BitterTweet</string>
+    <string name="logo">logoButton</string>
+    <string name="home_title">Home</string>
+
+</resources>

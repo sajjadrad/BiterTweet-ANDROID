@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+	<style name="button_text" >
+04	    <item name="android:layout_width" >fill_parent</item>
+05	    <item name="android:layout_height" >wrap_content</item>
+06	    <item name="android:textColor" >#ffffff</item>
+07	    <item name="android:gravity" >center</item>
+08	    <item name="android:layout_margin" >3dp</item>
+09	    <item name="android:textSize" >20dp</item>
+10	    <item name="android:textStyle" >bold</item>
+11	    <item name="android:shadowColor" >#000000</item>
+12	    <item name="android:shadowDx" >1</item>
+13	    <item name="android:shadowDy" >1</item>
+14	    <item name="android:shadowRadius" >2</item>
+15	  </style>
+</resources>
